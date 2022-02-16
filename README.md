@@ -10,4 +10,4 @@ Python CNN project to translate Sign Langauge Alphabets to English Alphabets
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weight saved of CNN model using Adam Optimizer 
 
 ## How to run?
-                       python app.py
+              python app.py
